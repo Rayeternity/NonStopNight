@@ -128,3 +128,319 @@ Received Import Request.
 Start importing Packages/com.unity.ide.rider/package.json using Guid(66c95bb3c74257f41bae2622511dc02d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1700f97dfa56a136d6536f5dd3f3019f') in 0.002507 seconds
   Import took 0.004214 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 805.537905 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29365f279eb4bb84fc221159d7c925f') in 0.016048 seconds
+  Import took 0.018077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073626 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f29365f279eb4bb84fc221159d7c925f') in 0.002101 seconds
+  Import took 0.003529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.779476 seconds.
+  path: Assets/Resources/player/STALKER.prefab
+  artifactKey: Guid(521a215b95b724227b8c09a8756a1ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Resources/player/STALKER.prefab using Guid(521a215b95b724227b8c09a8756a1ea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd38e080f636311be5aebdaae7603b211') in 0.120080 seconds
+  Import took 0.122292 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 359.139746 seconds.
+  path: Assets/scripts/UIScript/VirtualJoystickRegion.cs
+  artifactKey: Guid(5e568c8b8828c4484963356b3c3c5b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/UIScript/VirtualJoystickRegion.cs using Guid(5e568c8b8828c4484963356b3c3c5b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3092c866fe191bb82058be2dd1ec3e80') in 0.009904 seconds
+  Import took 0.012780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.102663 seconds.
+  path: Assets/scripts/UIScript/VirtualJoystickRegion.cs
+  artifactKey: Guid(5e568c8b8828c4484963356b3c3c5b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/UIScript/VirtualJoystickRegion.cs using Guid(5e568c8b8828c4484963356b3c3c5b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3092c866fe191bb82058be2dd1ec3e80') in 0.003256 seconds
+  Import took 0.004989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.712334 seconds.
+  path: Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.tga
+  artifactKey: Guid(3a9dd4b7894350840a0a7021a8e6884e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.tga using Guid(3a9dd4b7894350840a0a7021a8e6884e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750759ac60fe2971e884090f5b4320f1') in 0.019726 seconds
+  Import took 0.021623 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060047 seconds.
+  path: Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.tga
+  artifactKey: Guid(3a9dd4b7894350840a0a7021a8e6884e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.tga using Guid(3a9dd4b7894350840a0a7021a8e6884e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '750759ac60fe2971e884090f5b4320f1') in 0.007861 seconds
+  Import took 0.009596 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.378252 seconds.
+  path: Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.fbm/Assassin_buluo.psd
+  artifactKey: Guid(b49962c07d6624a4f81d5c5247e5e1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.fbm/Assassin_buluo.psd using Guid(b49962c07d6624a4f81d5c5247e5e1a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48e8b2dc4701ee99fac3d93c563e9eff') in 0.010345 seconds
+  Import took 0.011956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 250.277173 seconds.
+  path: Assets/scripts/Character/MyAnimationEvent.cs
+  artifactKey: Guid(b4c404202453646c6b5ec85cddca1a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Character/MyAnimationEvent.cs using Guid(b4c404202453646c6b5ec85cddca1a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62308b07d697fe960e432dc1ed74b629') in 0.003041 seconds
+  Import took 0.005066 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010221 seconds.
+  path: Assets/scripts/Character/MyAnimationEvent.cs
+  artifactKey: Guid(b4c404202453646c6b5ec85cddca1a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts/Character/MyAnimationEvent.cs using Guid(b4c404202453646c6b5ec85cddca1a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62308b07d697fe960e432dc1ed74b629') in 0.002879 seconds
+  Import took 0.004849 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.918385 seconds.
+  path: Assets/scripts
+  artifactKey: Guid(cfec00f6e77427244a42de994734160f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/scripts using Guid(cfec00f6e77427244a42de994734160f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b372d3c61944be4e07910985e547f9d') in 0.002859 seconds
+  Import took 0.004446 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 68.198695 seconds.
+  path: Assets/AstarPathfindingProject/Pathfinders/ABPath.cs
+  artifactKey: Guid(7833eca4f9a3c4a119943a3ef09cdfc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/AstarPathfindingProject/Pathfinders/ABPath.cs using Guid(7833eca4f9a3c4a119943a3ef09cdfc9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3c8a8935403de3455f5880311e54ad96') in 0.003420 seconds
+  Import took 0.005859 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.726377 seconds.
+  path: Assets/TestScene
+  artifactKey: Guid(4659c27af520467478ccee1a95b363c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TestScene using Guid(4659c27af520467478ccee1a95b363c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb71594c0be38c242cd1a04ce602e59') in 0.003875 seconds
+  Import took 0.005819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001631 seconds.
+  path: Assets/TestScene
+  artifactKey: Guid(4659c27af520467478ccee1a95b363c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TestScene using Guid(4659c27af520467478ccee1a95b363c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cb71594c0be38c242cd1a04ce602e59') in 0.003290 seconds
+  Import took 0.005066 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000615 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.637 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.18 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1089 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1548.
+Total: 1.126398 ms (FindLiveObjects: 0.108983 ms CreateObjectMapping: 0.028526 ms MarkObjects: 0.978893 ms  DeleteObjects: 0.009265 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000690 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.682 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.19 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.5 MB.
+System memory in use after: 70.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1550.
+Total: 1.181255 ms (FindLiveObjects: 0.112884 ms CreateObjectMapping: 0.030232 ms MarkObjects: 1.025217 ms  DeleteObjects: 0.011703 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000706 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.648 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.29 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 70.6 MB.
+System memory in use after: 70.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1552.
+Total: 1.901954 ms (FindLiveObjects: 0.177005 ms CreateObjectMapping: 0.102644 ms MarkObjects: 1.588172 ms  DeleteObjects: 0.032670 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 301.492984 seconds.
+  path: Assets/Art/User/Assassin/Assassin@run2.FBX
+  artifactKey: Guid(6f5fbd5dadb71944e854c54ddc42c26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin@run2.FBX using Guid(6f5fbd5dadb71944e854c54ddc42c26e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e80247f1148ab37f7e669ab3f3d076c') in 0.248808 seconds
+  Import took 0.250750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.809215 seconds.
+  path: Assets/Art/User/Assassin/rslash_1.anim
+  artifactKey: Guid(678242e02ce5f4d08a9a388e5de0b7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/rslash_1.anim using Guid(678242e02ce5f4d08a9a388e5de0b7c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2321ed13a0a0f6e5a03b126a71c787f8') in 0.022000 seconds
+  Import took 0.024317 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.073495 seconds.
+  path: Assets/Art/User/Assassin/Assassin@behit.FBX
+  artifactKey: Guid(0c2e561546f987843bf47b578770e739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin@behit.FBX using Guid(0c2e561546f987843bf47b578770e739) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cf3ed2115731ef20589aa01eeb25be52') in 0.047020 seconds
+  Import took 0.049087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.130759 seconds.
+  path: Assets/Art/User/Assassin/rslash_4.anim
+  artifactKey: Guid(35955744c7de646fca7c4c18b09a437e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/rslash_4.anim using Guid(35955744c7de646fca7c4c18b09a437e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a0b94bd6ade62777fe11a808ddf76b4') in 0.026908 seconds
+  Import took 0.029183 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.674283 seconds.
+  path: Assets/Art/User/Assassin/rslash_3.anim
+  artifactKey: Guid(10a4af3bbfaf140da8b7dd549ce6ef68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/rslash_3.anim using Guid(10a4af3bbfaf140da8b7dd549ce6ef68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd439e79e0a401ea096dd68a93053d560') in 0.072176 seconds
+  Import took 0.074715 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.504716 seconds.
+  path: Assets/Art/User/Assassin/rslash_2.anim
+  artifactKey: Guid(fcb813fa3bfe0419f95c80223dd04f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/rslash_2.anim using Guid(fcb813fa3bfe0419f95c80223dd04f47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d63f4d8c76f0e0b39b7cbdf342fd17e') in 0.023075 seconds
+  Import took 0.025311 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 72.208562 seconds.
+  path: Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.FBX
+  artifactKey: Guid(c9aa4677106800a4ebc5c96512f4eeb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin_buluo/Assassin_buluo.FBX using Guid(c9aa4677106800a4ebc5c96512f4eeb8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a9103d97d6454b9eabb0fc7dba1f8165') in 0.046984 seconds
+  Import took 0.049428 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000489 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.602 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.26 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.5 MB.
+System memory in use after: 71.6 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1559.
+Total: 1.295845 ms (FindLiveObjects: 0.145554 ms CreateObjectMapping: 0.031451 ms MarkObjects: 1.105918 ms  DeleteObjects: 0.012190 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 54.825990 seconds.
+  path: Assets/Art/User/Assassin/Assassin@behit.fbm
+  artifactKey: Guid(4376b9ba94ef9384b90c1db2f9ad4e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin@behit.fbm using Guid(4376b9ba94ef9384b90c1db2f9ad4e8c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb8a939a9dcc32b01c8f4f6fd6e5115a') in 0.007888 seconds
+  Import took 0.010152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.892995 seconds.
+  path: Assets/Art/User/Assassin/Assassin@behit.fbm/Assassin_Samurai_01_a.tga
+  artifactKey: Guid(701d5305e91b7a9408ba9cd585efc21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin@behit.fbm/Assassin_Samurai_01_a.tga using Guid(701d5305e91b7a9408ba9cd585efc21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76216a21bccbaaa80a5fc6f69c07d7aa') in 0.029305 seconds
+  Import took 0.031256 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012636 seconds.
+  path: Assets/Art/User/Assassin/Assassin@behit.fbm/Assassin_Samurai_01_a.tga
+  artifactKey: Guid(701d5305e91b7a9408ba9cd585efc21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin@behit.fbm/Assassin_Samurai_01_a.tga using Guid(701d5305e91b7a9408ba9cd585efc21d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76216a21bccbaaa80a5fc6f69c07d7aa') in 0.007965 seconds
+  Import took 0.010278 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.890059 seconds.
+  path: Assets/Art/User/Assassin/Assassin_buluo
+  artifactKey: Guid(872f2a79251f9d54eb4c26b0bc21f5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Art/User/Assassin/Assassin_buluo using Guid(872f2a79251f9d54eb4c26b0bc21f5b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e655ff219121937e9d08aae8b078ae3d') in 0.004372 seconds
+  Import took 0.006608 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000674 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.636 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.17 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1088 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 71.6 MB.
+System memory in use after: 71.7 MB.
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 1561.
+Total: 1.316081 ms (FindLiveObjects: 0.118735 ms CreateObjectMapping: 0.034133 ms MarkObjects: 1.149803 ms  DeleteObjects: 0.012190 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file

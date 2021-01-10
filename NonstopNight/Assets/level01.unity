@@ -4804,7 +4804,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!1 &297
 GameObject:
   m_ObjectHideFlags: 0
@@ -28504,9 +28504,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1976
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28519,9 +28516,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1977
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28534,9 +28528,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1978
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28549,9 +28540,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1979
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28564,9 +28552,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1980
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28579,9 +28564,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28594,9 +28576,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1982
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28609,9 +28588,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1983
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28624,9 +28600,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1984
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28639,9 +28612,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1985
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28654,9 +28624,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1986
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28669,9 +28636,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1987
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28684,9 +28648,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28699,9 +28660,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1989
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28714,9 +28672,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1990
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28729,9 +28684,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1991
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28744,9 +28696,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1992
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28759,9 +28708,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1993
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28774,9 +28720,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1994
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28789,9 +28732,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1995
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28804,9 +28744,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1996
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28819,9 +28756,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1997
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28834,9 +28768,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1998
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28849,9 +28780,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &1999
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28864,9 +28792,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &2000
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28879,9 +28804,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0f178e0c6b4e44493ae8139b45205b79, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ScalePeek: {x: 0.2, y: 0.2, z: 0.2}
-  Type: 1
-  Speed: 3
 --- !u!114 &2001
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28894,9 +28816,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: -100
-  RotationSpeedZ: 0
 --- !u!114 &2002
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -28909,9 +28828,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: -200
-  RotationSpeedZ: 0
 --- !u!114 &2003
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29008,9 +28924,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 735}
-  Time: 0
-  DisableAfterUse: 0
 --- !u!114 &2011
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29023,7 +28936,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2012
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29036,9 +28948,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -100
 --- !u!114 &2013
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29051,9 +28960,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 740}
-  Time: 2
-  DisableAfterUse: 0
 --- !u!114 &2014
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29066,7 +28972,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2015
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29079,9 +28984,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 743}
-  Time: 0
-  DisableAfterUse: 0
 --- !u!114 &2016
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29094,7 +28996,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2017
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29107,9 +29008,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 751}
-  Time: 2
-  DisableAfterUse: 0
 --- !u!114 &2018
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29122,8 +29020,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObjectsList:
-  - {fileID: 486}
 --- !u!114 &2019
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29136,88 +29032,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds:
-  - Spawns:
-    - EnemyType: 6
-      SpawnPoint:
-      - {fileID: 2027}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 6
-      SpawnPoint:
-      - {fileID: 2029}
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 6
-      SpawnPoint:
-      - {fileID: 2031}
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 0
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 6
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 6
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  SpawnPoints:
-  - {fileID: 2023}
-  - {fileID: 2026}
-  - {fileID: 2027}
-  - {fileID: 2028}
-  - {fileID: 2029}
-  - {fileID: 2030}
-  - {fileID: 2031}
-  - {fileID: 2032}
-  - {fileID: 2033}
-  - {fileID: 2034}
-  LockIn: {fileID: 2024}
-  LockOut: {fileID: 0}
-  State: 0
 --- !u!114 &2020
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29230,12 +29044,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerSpawn: {fileID: 2022}
-  SpawnZones:
-  - {fileID: 2019}
-  InteractionObjects: []
-  BreakableObjects: []
-  LoadNextLevel: {fileID: 2044}
 --- !u!114 &2021
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29248,9 +29056,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 754}
-  Time: 2
-  DisableAfterUse: 0
 --- !u!114 &2022
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29263,7 +29068,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2023
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29276,9 +29080,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2024
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29291,14 +29092,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 211}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2025
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29311,9 +29104,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2026
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29326,9 +29116,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2027
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29341,9 +29128,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2028
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29356,9 +29140,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2029
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29371,9 +29152,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2030
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29386,9 +29164,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2031
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29401,9 +29176,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2032
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29416,9 +29188,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2033
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29431,9 +29200,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2034
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29446,9 +29212,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2035
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29461,12 +29224,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 5
-  NextDamageDelay: 0.2
-  Impuls: 0
-  Size: {x: 10.5, y: 5, z: 0.5}
-  SoundHit: []
-  SoundRange: 2
 --- !u!114 &2036
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29479,12 +29236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 5
-  NextDamageDelay: 0.2
-  Impuls: 0
-  Size: {x: 10.5, y: 5, z: 0.5}
-  SoundHit: []
-  SoundRange: 2
 --- !u!114 &2037
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29497,12 +29248,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 5
-  NextDamageDelay: 0.2
-  Impuls: 0
-  Size: {x: 10.5, y: 5, z: 0.5}
-  SoundHit: []
-  SoundRange: 2
 --- !u!114 &2038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29515,12 +29260,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 346be5130126c48e098daf3ab3ae51a1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Damage: 5
-  NextDamageDelay: 0.2
-  Impuls: 0
-  Size: {x: 10.5, y: 5, z: 0.5}
-  SoundHit: []
-  SoundRange: 2
 --- !u!114 &2039
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29533,16 +29272,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 222}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1264}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1263}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1262}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1840}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 222}
-  Experience: 50
 --- !u!114 &2040
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29555,16 +29284,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 223}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1265}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1266}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1267}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1841}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 223}
-  Experience: 50
 --- !u!114 &2041
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29577,16 +29296,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 234}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1270}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1269}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1268}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1842}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 234}
-  Experience: 50
 --- !u!114 &2042
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29599,16 +29308,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 235}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1271}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1272}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1273}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1843}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 235}
-  Experience: 50
 --- !u!114 &2043
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29621,16 +29320,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 246}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1276}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1275}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1274}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1844}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 246}
-  Experience: 50
 --- !u!114 &2044
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29643,9 +29332,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: abb3eecbe3a8240fa875bbddba786890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  NextLevel: Comics02
-  LastMission: 0
-  Delay: 2
 --- !u!114 &2045
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29658,16 +29344,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 248}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1277}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1278}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1279}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1845}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 248}
-  Experience: 50
 --- !u!114 &2046
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29680,16 +29356,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 259}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1282}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1281}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1280}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1846}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 259}
-  Experience: 50
 --- !u!114 &2047
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29702,16 +29368,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 260}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1283}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1284}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1285}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1847}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 260}
-  Experience: 50
 --- !u!114 &2048
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29724,16 +29380,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 271}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1288}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1287}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1286}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1848}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 271}
-  Experience: 50
 --- !u!114 &2049
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29746,16 +29392,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 272}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1289}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1290}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1291}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1849}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 272}
-  Experience: 50
 --- !u!114 &2050
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29768,16 +29404,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 283}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1294}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1293}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1292}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1850}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 283}
-  Experience: 50
 --- !u!114 &2051
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29790,9 +29416,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2052
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29805,16 +29428,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 314}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1297}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1295}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1296}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1857}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 314}
-  Experience: 50
 --- !u!114 &2053
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29827,16 +29440,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 317}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1298}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1300}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1299}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1856}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 317}
-  Experience: 50
 --- !u!114 &2054
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29849,16 +29452,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 326}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1303}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1301}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1302}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1855}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 326}
-  Experience: 50
 --- !u!114 &2055
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29871,16 +29464,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 329}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1304}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1306}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1305}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1854}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 329}
-  Experience: 50
 --- !u!114 &2056
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29893,16 +29476,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 338}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1309}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1307}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1308}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1853}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 338}
-  Experience: 50
 --- !u!114 &2057
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29915,16 +29488,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 341}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1310}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1312}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1311}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1852}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 341}
-  Experience: 50
 --- !u!114 &2058
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -29937,16 +29500,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 350}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1315}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1313}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1314}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1851}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 350}
-  Experience: 50
 --- !u!114 &2060
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30067,9 +29620,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 913}
-  Time: 2
-  DisableAfterUse: 0
 --- !u!114 &2070
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30082,9 +29632,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 916}
-  Time: 0
-  DisableAfterUse: 0
 --- !u!114 &2071
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30097,9 +29644,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2072
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30112,9 +29656,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2073
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30127,9 +29668,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2074
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30142,9 +29680,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2075
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30157,9 +29692,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2076
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30172,9 +29704,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2077
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30187,9 +29716,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2078
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30202,9 +29728,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2079
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30217,9 +29740,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2080
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30232,9 +29752,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2081
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30247,9 +29764,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2082
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30262,9 +29776,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2083
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30277,9 +29788,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2084
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30292,9 +29800,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2085
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30307,9 +29812,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2086
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30322,9 +29824,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2087
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30337,9 +29836,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2088
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30352,9 +29848,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2089
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30367,9 +29860,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2090
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30382,16 +29872,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 68b331cb93a944931b3f21e78eaf5209, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  BreakableGameObject: {fileID: 353}
-  AnimBreak: {fileID: 7400004, guid: 5eb0de07c80df4f6fbf569fd1a62c94a, type: 3}
-  Emitters:
-  - {Emitter: {fileID: 1316}, Delay: 0.1, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1318}, Delay: 0, Life: 0.2, LinkOnRoot: 0}
-  - {Emitter: {fileID: 1317}, Delay: 0.05, Life: 0.2, LinkOnRoot: 0}
-  Sounds:
-  - {Audio: {fileID: 1858}, Delay: 0, Life: 3, Parent: {fileID: 0}}
-  InteractionObject: {fileID: 353}
-  Experience: 50
 --- !u!114 &2091
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30404,9 +29884,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2092
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30419,9 +29896,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2093
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30434,9 +29908,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 100
-  RotationSpeedZ: 0
 --- !u!114 &2094
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30449,9 +29920,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 120
-  RotationSpeedZ: 0
 --- !u!114 &2095
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30464,9 +29932,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 90
-  RotationSpeedZ: 0
 --- !u!114 &2096
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30479,9 +29944,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2097
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30494,7 +29956,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2098
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30507,9 +29968,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2099
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30522,14 +29980,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 296}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2100
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30542,9 +29992,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2101
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30557,14 +30004,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 297}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2102
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30577,9 +30016,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2103
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30592,9 +30028,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2104
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30607,9 +30040,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2105
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30622,9 +30052,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2106
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30637,9 +30064,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2107
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30652,9 +30076,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2108
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30667,9 +30088,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2109
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30682,9 +30100,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2110
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30697,9 +30112,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 0
-  Difficulty: 0
 --- !u!114 &2111
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30712,9 +30124,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2120
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30727,9 +30136,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 120
-  RotationSpeedZ: 0
 --- !u!114 &2121
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30742,9 +30148,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 150
-  RotationSpeedZ: 0
 --- !u!114 &2122
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30757,97 +30160,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds:
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2127}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2084}
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 0
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2081}
-      - {fileID: 2080}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2082}
-      - {fileID: 2081}
-      - {fileID: 2080}
-      - {fileID: 2079}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2082}
-      - {fileID: 2081}
-      - {fileID: 2080}
-      - {fileID: 2079}
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2078}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2079}
-      - {fileID: 2078}
-      - {fileID: 2077}
-      - {fileID: 2071}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2079}
-      - {fileID: 2078}
-      - {fileID: 2077}
-      - {fileID: 2071}
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  SpawnPoints:
-  - {fileID: 2127}
-  - {fileID: 2084}
-  - {fileID: 2083}
-  - {fileID: 2082}
-  - {fileID: 2081}
-  - {fileID: 2080}
-  - {fileID: 2079}
-  - {fileID: 2078}
-  - {fileID: 2077}
-  - {fileID: 2071}
-  LockIn: {fileID: 2125}
-  LockOut: {fileID: 2123}
-  State: 0
 --- !u!114 &2123
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30860,14 +30172,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 286}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2124
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30880,9 +30184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2125
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30895,14 +30196,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 287}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2126
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30915,9 +30208,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2127
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30930,9 +30220,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2128
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30945,7 +30232,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2137
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30958,12 +30244,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerSpawn: {fileID: 2128}
-  SpawnZones:
-  - {fileID: 2122}
-  InteractionObjects: []
-  BreakableObjects: []
-  LoadNextLevel: {fileID: 0}
 --- !u!114 &2138
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -30976,20 +30256,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerSpawn: {fileID: 2097}
-  SpawnZones:
-  - {fileID: 2142}
-  InteractionObjects:
-  - {fileID: 2141}
-  - {fileID: 2140}
-  - {fileID: 2139}
-  BreakableObjects:
-  - {fileID: 2056}
-  - {fileID: 2055}
-  - {fileID: 2057}
-  - {fileID: 2058}
-  - {fileID: 2090}
-  LoadNextLevel: {fileID: 0}
 --- !u!114 &2139
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31002,21 +30268,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjectsToShow: []
-  ObjectsToHide: []
-  Emitters: []
-  Sounds:
-  - {Audio: {fileID: 1869}, Delay: 0.2, Life: 3, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1868}, Delay: 3, Life: 3, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1867}, Delay: 5.6, Life: 2, Parent: {fileID: 0}}
-  ActiveEffect: {fileID: 1259}
-  CameraAnimation: {fileID: 7400000, guid: f7597f1e80dae4ea9add0779a5a2f8a6, type: 2}
-  InteractionObject: {fileID: 562}
-  RootTransform: {fileID: 1058}
-  AnimON: {fileID: 7400000, guid: b19d505ce887b7d45bf14ece5790cceb, type: 3}
-  AnimOFF: {fileID: 0}
-  State: 0
-  DisableAfterUse: 1
 --- !u!114 &2140
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31029,21 +30280,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjectsToShow: []
-  ObjectsToHide: []
-  Emitters: []
-  Sounds:
-  - {Audio: {fileID: 1869}, Delay: 0.2, Life: 3, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1868}, Delay: 3.3, Life: 2.8, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1867}, Delay: 5, Life: 2, Parent: {fileID: 0}}
-  ActiveEffect: {fileID: 1260}
-  CameraAnimation: {fileID: 7400000, guid: 5e62aa44887dc4bd1a30075b7ab709cd, type: 2}
-  InteractionObject: {fileID: 519}
-  RootTransform: {fileID: 954}
-  AnimON: {fileID: 7400002, guid: 9cc83c7360f31453d9f54d0f498e0b6f, type: 3}
-  AnimOFF: {fileID: 0}
-  State: 0
-  DisableAfterUse: 1
 --- !u!114 &2141
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31056,22 +30292,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: deb456501ce9e47cbb3eccb4cfe9baca, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjectsToShow: []
-  ObjectsToHide: []
-  Emitters: []
-  Sounds:
-  - {Audio: {fileID: 1869}, Delay: 0.2, Life: 3, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1834}, Delay: 3, Life: 6.5, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1867}, Delay: 9.4, Life: 2, Parent: {fileID: 0}}
-  - {Audio: {fileID: 1870}, Delay: 4, Life: 5.4, Parent: {fileID: 0}}
-  ActiveEffect: {fileID: 1261}
-  CameraAnimation: {fileID: 7400000, guid: a77afb338c35c4f64850d4246d747dbd, type: 2}
-  InteractionObject: {fileID: 533}
-  RootTransform: {fileID: 978}
-  AnimON: {fileID: 7400002, guid: c11defa9d6f00364999b9907502900ff, type: 3}
-  AnimOFF: {fileID: 0}
-  State: 0
-  DisableAfterUse: 1
 --- !u!114 &2142
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31084,113 +30304,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds:
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint:
-      - {fileID: 2109}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 0
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 3
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 3
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 3
-  SpawnPoints:
-  - {fileID: 2111}
-  - {fileID: 2110}
-  - {fileID: 2109}
-  - {fileID: 2108}
-  - {fileID: 2107}
-  - {fileID: 2106}
-  - {fileID: 2105}
-  - {fileID: 2104}
-  - {fileID: 2103}
-  - {fileID: 2102}
-  - {fileID: 2096}
-  - {fileID: 2096}
-  - {fileID: 2096}
-  - {fileID: 2096}
-  - {fileID: 2096}
-  LockIn: {fileID: 2101}
-  LockOut: {fileID: 2099}
-  State: 0
 --- !u!114 &2143
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31215,9 +30328,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 4
-  Difficulty: 0
 --- !u!114 &2145
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31230,9 +30340,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2146
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31245,14 +30352,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 295}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2147
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31265,9 +30364,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2148
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31280,14 +30376,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 294}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2149
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31300,9 +30388,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2150
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31315,9 +30400,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2151
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31330,9 +30412,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31345,7 +30424,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2153
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31358,9 +30436,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2154
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31373,14 +30448,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 285}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2155
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31393,9 +30460,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2156
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31408,14 +30472,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 293}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2157
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31428,9 +30484,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 4
-  Difficulty: 0
 --- !u!114 &2158
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31443,9 +30496,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2159
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31458,9 +30508,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2160
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31473,14 +30520,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 289}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2161
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31493,9 +30532,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2162
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31508,9 +30544,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2163
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31523,14 +30556,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 290}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2164
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31543,9 +30568,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2165
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31558,14 +30580,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 291}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2166
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31578,9 +30592,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2167
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31593,9 +30604,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2168
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31608,7 +30616,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 28675800a04d34f3eb98d9ddee577122, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
 --- !u!114 &2169
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31621,14 +30628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3af9455c9a8a54cb68404821814d148a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Collision: {fileID: 288}
-  AnimON: {fileID: 7400004, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimOFF: {fileID: 7400002, guid: 9a050db6072bb49889a45ecf94405add, type: 3}
-  AnimLoop: {fileID: 0}
-  SoundOn: {fileID: 8300000, guid: 1ce182c77a08645558e18f8a88989ef0, type: 3}
-  SoundOff: {fileID: 8300000, guid: 9b079493e9b7040da9ceb5dc9e902ba9, type: 3}
-  State: 0
-  HideWhenUnlock: 1
 --- !u!114 &2170
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31641,9 +30640,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 0
-  RotationSpeedZ: -200
 --- !u!114 &2171
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31656,9 +30652,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 71dd67b3f45e748e3b42422ce0618a6a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnAnimation: {fileID: 0}
-  EnemyType: 1
-  Difficulty: 0
 --- !u!114 &2172
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31671,97 +30664,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds:
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2072}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 0
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  SpawnPoints:
-  - {fileID: 2171}
-  - {fileID: 2076}
-  - {fileID: 2075}
-  - {fileID: 2073}
-  - {fileID: 2074}
-  - {fileID: 2072}
-  LockIn: {fileID: 2169}
-  LockOut: {fileID: 2160}
-  State: 0
 --- !u!114 &2173
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31774,9 +30676,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e05bf932afe7943e0b0d55a13f3c9e44, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  CameraOffset: {fileID: 1021}
-  Time: 2
-  DisableAfterUse: 0
 --- !u!114 &2174
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31801,23 +30700,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerSpawn: {fileID: 2152}
-  SpawnZones:
-  - {fileID: 2178}
-  - {fileID: 2177}
-  InteractionObjects:
-  - {fileID: 2140}
-  BreakableObjects:
-  - {fileID: 2053}
-  - {fileID: 2052}
-  - {fileID: 2054}
-  - {fileID: 2045}
-  - {fileID: 2046}
-  - {fileID: 2047}
-  - {fileID: 2048}
-  - {fileID: 2049}
-  - {fileID: 2050}
-  LoadNextLevel: {fileID: 0}
 --- !u!114 &2177
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31830,15 +30712,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds: []
-  SpawnPoints:
-  - {fileID: 2159}
-  - {fileID: 2144}
-  - {fileID: 2158}
-  - {fileID: 2157}
-  LockIn: {fileID: 2156}
-  LockOut: {fileID: 2154}
-  State: 0
 --- !u!114 &2178
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31851,68 +30724,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds:
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint:
-      - {fileID: 2149}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint:
-      - {fileID: 2151}
-      - {fileID: 2150}
-      SpawnDelay: 2
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 0
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0.5
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  SpawnPoints:
-  - {fileID: 2151}
-  - {fileID: 2150}
-  - {fileID: 2149}
-  - {fileID: 2092}
-  - {fileID: 2091}
-  LockIn: {fileID: 2148}
-  LockOut: {fileID: 2146}
-  State: 0
 --- !u!114 &2179
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31937,8 +30748,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObjectsList:
-  - {fileID: 486}
 --- !u!114 &2183
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31951,9 +30760,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d34faf600a26c429ebc928becdeadd1e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  RotationSpeedX: 0
-  RotationSpeedY: 100
-  RotationSpeedZ: 0
 --- !u!114 &2184
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31966,19 +30772,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bdafc9e90b23d4a8598cc1991ae7460c, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  PlayerSpawn: {fileID: 2168}
-  SpawnZones:
-  - {fileID: 2185}
-  - {fileID: 2172}
-  InteractionObjects:
-  - {fileID: 2139}
-  BreakableObjects:
-  - {fileID: 2043}
-  - {fileID: 2042}
-  - {fileID: 2041}
-  - {fileID: 2040}
-  - {fileID: 2039}
-  LoadNextLevel: {fileID: 0}
 --- !u!114 &2185
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -31991,81 +30784,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5b00798f6c6ab487bb58a2713c886922, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  SpawnRounds:
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint:
-      - {fileID: 2088}
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 0
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 0
-  - Spawns:
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  - Spawns:
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 0
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 1
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    - EnemyType: 4
-      SpawnPoint: []
-      SpawnDelay: 1
-      RotateToPlayer: 1
-      WhenKilledStopSpawn: 0
-    SpawnDelay: 1000
-    MinEnemiesFomLastRound: 1
-  SpawnPoints:
-  - {fileID: 2167}
-  - {fileID: 2166}
-  - {fileID: 2089}
-  - {fileID: 2088}
-  - {fileID: 2086}
-  - {fileID: 2085}
-  - {fileID: 2087}
-  LockIn: {fileID: 2165}
-  LockOut: {fileID: 2163}
-  State: 0
 --- !u!114 &2186
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32102,11 +30820,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObjectsList:
-  - {fileID: 399}
-  - {fileID: 398}
-  - {fileID: 401}
-  - {fileID: 486}
 --- !u!114 &2189
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32119,11 +30832,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObjectsList:
-  - {fileID: 409}
-  - {fileID: 499}
-  - {fileID: 449}
-  - {fileID: 399}
 --- !u!114 &2190
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -32136,10 +30844,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51d4b0a0635a2412f81d00f84c4a5397, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  GameObjectsList:
-  - {fileID: 504}
-  - {fileID: 393}
-  - {fileID: 409}
 --- !u!114 &2191
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -38817,6 +37521,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: zamekout
       objectReference: {fileID: 0}
+    - target: {fileID: 100000, guid: f16a46a6cfd4e43b79b66f1e2a5dd172, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: f16a46a6cfd4e43b79b66f1e2a5dd172, type: 3}
       propertyPath: m_RootOrder
       value: 3
@@ -41468,38 +40176,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0.047540367
-      objectReference: {fileID: 0}
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: 8.301912
-      objectReference: {fileID: 0}
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -4.9330316
-      objectReference: {fileID: 0}
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalRotation.w
-      value: -0.9062001
-      objectReference: {fileID: 0}
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalRotation.x
-      value: -0.42275304
-      objectReference: {fileID: 0}
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalRotation.y
-      value: -0.008164703
-      objectReference: {fileID: 0}
-    - target: {fileID: 747, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0.0038095652
-      objectReference: {fileID: 0}
-    - target: {fileID: 1341, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
-      propertyPath: field of view
-      value: 50
-      objectReference: {fileID: 0}
     - target: {fileID: 1924, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
       propertyPath: m_Animations.Array.data[0]
       value: 
@@ -41526,7 +40202,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.875741
+      value: -0.73
       objectReference: {fileID: 0}
     - target: {fileID: 400000, guid: 521a215b95b724227b8c09a8756a1ea8, type: 3}
       propertyPath: m_LocalPosition.z

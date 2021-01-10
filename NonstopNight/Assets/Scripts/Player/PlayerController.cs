@@ -5,7 +5,7 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     CharacterController player_charater_c;
-    public float speed = 1.0f;
+    private float speed = 3f;
     private Vector3 move_direction = Vector3.zero;
     void Start()
     {
@@ -15,42 +15,27 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //if (Input.GetKey(KeyCode.W))
-        //{            
-        //    PlayerMoveForward();
-        //}
-        //if (Input.GetKey(KeyCode.A))
-        //{
-        //    PlayerMoveForward();
-        //}
-        //if (Input.GetKey(KeyCode.S))
-        //{
-        //    PlayerMoveForward();
-        //}
-        //if (Input.GetKey(KeyCode.D))
-        //{
-        //    PlayerMoveForward();
-        //}
-        if (player_charater_c.isGrounded)
-        {
+        PlayerMove();
 
-            move_direction = new Vector3(Input.GetAxis("Horizontal"), 0.0f, Input.GetAxis("Vertical"));
-            move_direction *= speed;
-
-            if (Input.GetButton("Jump"))
-            {
-                move_direction.y = 1;
-            }
-
-
-            // Move the controller
-            player_charater_c.Move(move_direction * Time.deltaTime);
-        }
     }
 
-    void PlayerMoveForward()
+    void PlayerMove()
     {
+        //if (player_charater_c.isGrounded)
+        //{
+        //if (Input.GetButton("Jump"))
+        //{
+        //    move_direction.y = 1;
+        //}
+        //}
+        move_direction = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
+        
         gameObject.GetComponent<Animation>().Play("run1");
-        gameObject.GetComponent<Transform>().Translate(0, 0, 0.01f);
+        player_charater_c.SimpleMove(move_direction *speed);
+    }
+
+    private void OnControllerColliderHit(ControllerColliderHit hit)
+    {
+        Debug.Log(hit.gameObject.name);
     }
 }

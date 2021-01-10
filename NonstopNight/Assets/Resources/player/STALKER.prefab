@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 747}
   - component: {fileID: 1341}
   - component: {fileID: 1924}
+  - component: {fileID: 773521391}
   m_Layer: 0
   m_Name: Camera
   m_TagString: MainCamera
@@ -25,8 +26,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 188}
-  m_LocalRotation: {x: 0.34045428, y: 0.23923853, z: -0.090014696, w: 0.9048498}
-  m_LocalPosition: {x: 51.641953, y: 41.75876, z: 102.232216}
+  m_LocalRotation: {x: -0.42275304, y: -0.008164703, z: 0.0038095652, w: -0.9062001}
+  m_LocalPosition: {x: 0.047540367, y: 8.301912, z: -4.9330316}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 400000}
@@ -57,7 +58,7 @@ Camera:
     height: 1
   near clip plane: 0.3
   far clip plane: 200
-  field of view: 42
+  field of view: 50
   orthographic: 0
   orthographic size: 100
   m_Depth: 0
@@ -93,6 +94,14 @@ Animation:
   m_PlayAutomatically: 0
   m_AnimatePhysics: 0
   m_CullingType: 0
+--- !u!81 &773521391
+AudioListener:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 188}
+  m_Enabled: 1
 --- !u!1 &100000
 GameObject:
   m_ObjectHideFlags: 0
@@ -169,13 +178,13 @@ CharacterController:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Height: 1.5
-  m_Radius: 0.5
+  m_Height: 1.8
+  m_Radius: 0.35
   m_SlopeLimit: 45
-  m_StepOffset: 0.3
+  m_StepOffset: 0.5
   m_SkinWidth: 0.08
   m_MinMoveDistance: 0
-  m_Center: {x: 0, y: 0.7, z: 0}
+  m_Center: {x: 0, y: 0.8, z: 0}
 --- !u!114 &2075619036
 MonoBehaviour:
   m_ObjectHideFlags: 0

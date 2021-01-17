@@ -5,11 +5,13 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
     CharacterController player_charater_c;
+    private Animator player_animator;
     private float speed = 3f;
     private Vector3 move_direction = Vector3.zero;
     void Start()
     {
         player_charater_c = gameObject.GetComponent<CharacterController>();
+        player_animator = gameObject.GetComponent<Animator>();
     }
 
     // Update is called once per frame
@@ -29,8 +31,7 @@ public class PlayerController : MonoBehaviour
         //}
         //}
         move_direction = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
-        
-        gameObject.GetComponent<Animation>().Play("run1");
+        player_animator.SetFloat("vertical",Input.GetAxis("Vertical"));       
         player_charater_c.SimpleMove(move_direction *speed);
     }
 

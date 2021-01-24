@@ -9,7 +9,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 400000}
-  - component: {fileID: 11100000}
   - component: {fileID: 14300000}
   - component: {fileID: 2075619036}
   - component: {fileID: 1296120335}
@@ -40,31 +39,6 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!111 &11100000
-Animation:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 100000}
-  m_Enabled: 0
-  serializedVersion: 3
-  m_Animation: {fileID: 7400000, guid: de1e17813ce8fbd458b9ebd97b27586c, type: 3}
-  m_Animations:
-  - {fileID: 7400000, guid: fcb813fa3bfe0419f95c80223dd04f47, type: 2}
-  - {fileID: 7400000, guid: 678242e02ce5f4d08a9a388e5de0b7c9, type: 2}
-  - {fileID: 7400000, guid: 10a4af3bbfaf140da8b7dd549ce6ef68, type: 2}
-  - {fileID: 7400000, guid: 35955744c7de646fca7c4c18b09a437e, type: 2}
-  - {fileID: 7400000, guid: c6679db03505eb046aa24abe199428a6, type: 3}
-  - {fileID: 7400000, guid: 6f5fbd5dadb71944e854c54ddc42c26e, type: 3}
-  - {fileID: 7400000, guid: ba2be6ed7ab524f4db8e4df87cb3e734, type: 3}
-  - {fileID: 7400000, guid: 0c2e561546f987843bf47b578770e739, type: 3}
-  - {fileID: 7400000, guid: 8bf1db9fd1a799640b961b63a4f79f78, type: 3}
-  - {fileID: 7400000, guid: de1e17813ce8fbd458b9ebd97b27586c, type: 3}
-  m_WrapMode: 0
-  m_PlayAutomatically: 1
-  m_AnimatePhysics: 0
-  m_CullingType: 1
 --- !u!143 &14300000
 CharacterController:
   m_ObjectHideFlags: 0

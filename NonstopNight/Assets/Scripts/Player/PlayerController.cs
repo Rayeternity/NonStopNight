@@ -17,23 +17,18 @@ public class PlayerController : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        //¼ì²â½ÇÉ«ÒÆ¶¯
         PlayerMove();
-
+        //¼ì²â½ÇÉ«¹¥»÷
+        PlayerAttack01();
+        //¼ì²â½ÇÉ«·­¹ö
+        PlayerRoll();
     }
 
     void PlayerMove()
     {
-        //if (player_charater_c.isGrounded)
-        //{
-        //if (Input.GetButton("Jump"))
-        //{
-        //    move_direction.y = 1;
-        //}
-        //}
         move_direction = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
         //²¥·ÅÒÆ¶¯¶¯»­
-        Debug.Log("Horizontal" + Input.GetAxis("Horizontal"));
-        Debug.Log("Vertical" + Input.GetAxis("Vertical"));
         if (Input.GetAxis("Horizontal") != 0 || Input.GetAxis("Vertical") != 0)
         {
             player_animator.SetBool("move", true);
@@ -41,13 +36,32 @@ public class PlayerController : MonoBehaviour
         else
         {
             player_animator.SetBool("move", false);
-        }
-        
-
-        player_charater_c.SimpleMove(move_direction *speed);
-        player_charater_c.transform.forward = Vector3.Lerp(transform.forward, move_direction, 0.1f);
-        //player_charater_c.transform.LookAt(transform.position + move_direction);
+        }    
+        player_charater_c.transform.forward = Vector3.Lerp(transform.forward, move_direction, 0.51f);
+        player_charater_c.SimpleMove(move_direction * speed);
     }
+
+    void PlayerRoll()
+    {
+        if (Input.GetKeyDown(KeyCode.Space))
+        {
+            player_animator.SetTrigger("roll");
+        }
+    }
+
+    void PlayerAttack01()
+    {
+        if (Input.GetMouseButtonDown(0))
+        {
+            player_animator.SetBool("attack1",true);
+        }
+        else if(Input.GetMouseButtonUp(0))
+        {
+            player_animator.SetBool("attack1", false);
+        }
+    }
+
+
 
     private void OnControllerColliderHit(ControllerColliderHit hit)
     {

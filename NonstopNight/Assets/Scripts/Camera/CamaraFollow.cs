@@ -8,13 +8,13 @@ public class CamaraFollow : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        player_pos = GameObject.Find("STALKER").GetComponent<Transform>();
+        player_pos = GameObject.Find("SwordShieldRedKnight").GetComponent<Transform>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        Vector3 move_pos =  new Vector3(0f, 7.2f, -4f);
+        Vector3 move_pos =  new Vector3(-1.57f, 11.18f, -6.67f);
         gameObject.transform.position = Vector3.Lerp(gameObject.transform.position, move_pos + player_pos.position, Time.deltaTime*5);
     }
 }
